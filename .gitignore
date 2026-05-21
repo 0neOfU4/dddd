@@ -1,0 +1,8 @@
+.DS_Store
+*.exe
+dddd_linux64
+dddd_linux_arm64
+dddd_darwin64
+dddd_darwin_arm64
+audit.log
+output/
